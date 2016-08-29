@@ -1,12 +1,12 @@
 # SkyeRobot
 A single-user blog for free
-____________________________________________________________________________________________________-
+
 
 Functions：
 1.add,update,delete,search articles for administrator,while the passbys can only read articles.
 2.comment on articles
 3.commit e-mails for further communication
-____________________________________________________________________________________________________
+
 Operating system:
 Windows 10
 
