@@ -1,17 +1,17 @@
 # SkyeRobot
 
-A single-user blog for free
+### A single-user blog for free
 
 
-##Functions：
+## Functions：
 1.add,update,delete,search articles for administrator,while the passbys can only read articles.<br>
 2.comment on articles.<br>
 3.commit e-mails for further communication.<br>
 
-##Operating system:
+## Operating system:
 Windows 10
 
-##Basic requirements:
+## Basic requirements:
 1.Oracle database 11g<br>
 2.Java 1.7<br>
 3.Tomcat 1.7<br>
